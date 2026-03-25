@@ -1,6 +1,3 @@
-import subprocess
-subprocess.run(["pip", "install", "plotly", "fpdf", "openai", "gspread", "google-auth", "google-auth-oauthlib", "google-auth-httplib2", "kaleido"], check=False)
-
 import streamlit as st
 import pandas as pd
 import numpy as np
