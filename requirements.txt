@@ -1,0 +1,12 @@
+plotly
+streamlit
+pandas
+numpy
+fpdf
+openai
+requests
+kaleido
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
